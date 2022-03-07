@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Google Earth Engine Labeler
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+This project seeks to create a pipeline infastructure to label TIFF files from Google Earth Engines to numpy arrays ready for pytorch/tensorflow training
